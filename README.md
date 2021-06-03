@@ -5,6 +5,8 @@
 - https://t.me/cheemsorrent_bot 
 - [@cheemsorrent_bot](https://t.me/cheemsorrent_bot)
 
+![cheems photo](https://raw.githubusercontent.com/ashvnv/cheemsorrent/main/temp/cheemspic.png?)
+
 ### How to use?
 - Send a movie name and the bot will reply with the torrent links
 - Supports english movies only

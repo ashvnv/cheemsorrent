@@ -5,3 +5,9 @@
 - https://t.me/cheemsorrent_bot 
 - [@cheemsorrent_bot](https://t.me/cheemsorrent_bot)
 
+### How to use?
+- Send a movie name and the bot will reply with the torrent links
+- Supports english movies only
+- For getting proper results it is recommended to send movie names as given in imdb or wikipedia
+
+#### Make sure you have a torrent client installed in your device before opening the torrent files. The bot only sends torrent file links. This file can be opened in any torrent client and you can download the movie. A VPN might be required if you are not able to download the torrent file.
